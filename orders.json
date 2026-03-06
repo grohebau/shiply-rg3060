@@ -1,0 +1,47 @@
+{
+  "SE428152697DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Martin Alfons Eibl, Ulmenstraße 49, 27570 Bremerhaven, Deutschland",
+    "receiver": "Stephan Summerer, Kirchplatz 7, 83257 Gollenshausen, Deutschland",
+    "price": "2.500,00 €",
+    "description": "Hersteller: Simson<br>Typ: S 51<br>Fahrgestelnummer: 5499086<br>Erstzulassung: 17/05/1985<br>KM laut Vorbesitzer: 760 km<br>Leistung: 3 kW (4 PS)<br>Hubraum: 49 cm³<br>Farbe: Grün<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Stephan Summerer<br>Kirchplatz 7<br>83257 Gollenshausen<br>Deutschland<br>Telefon: +49 172 8604545",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "06.03.2026",
+    "deliveryDate": "11.03.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
